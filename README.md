@@ -1,7 +1,6 @@
-Escreva um programa Java que usa o laço do...while para ler números inteiros até que o valor lido seja igual a 0. 
 
-Em seguida mostre a quantidade de valores positivos e negativos, a soma dos valores e a média aritmética (sem incluir o valor 0 na contagem e no cálculo da média). 
+![modelo](https://user-images.githubusercontent.com/95319831/163745231-647f1e3b-aa33-424e-afb9-835cc50e8e98.png)
 
-A média deverá ser exibida como um valor de ponto flutuante.
+## RESPOSTA QST DO WHILE
 
-
+![resposta do while](https://user-images.githubusercontent.com/95319831/163745876-b2ae9e19-64e1-4aa5-9502-81ed6ff99530.png)
