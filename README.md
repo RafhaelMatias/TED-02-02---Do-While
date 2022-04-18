@@ -4,4 +4,4 @@ Em seguida mostre a quantidade de valores positivos e negativos, a soma dos valo
 
 A média deverá ser exibida como um valor de ponto flutuante.
 
-![ ] (https://github.com/RafhaelMatias/TED-02-02---Do-While/blob/main/modelo.png)
+
